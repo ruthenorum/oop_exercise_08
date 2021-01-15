@@ -1,0 +1,15 @@
+add
+rectangle 0 0 1 0 1 1 0 1
+add
+square 0 0 2 0 2 2 0 2
+add
+triangle 0 0 1 1 6 7
+add
+triangle 0 0 1 1 6 12
+add
+rectangle 0 0 3 0 3 2 0 2
+add
+square 0 0 7 0 7 7 0 7
+add
+rectangle 0 0 4 0 4 3 0 3
+exit
